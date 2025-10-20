@@ -40,13 +40,14 @@
         "Lusty Pale"
     ],
     "default_aspect_ratio": "1152*896",
-    "default_overwrite_step": 13,
+    "default_overwrite_step": 15,
     "checkpoint_downloads": {
         "lustifySDXLNSFW_ggwpV7.safetensors": "https://civitai.com/api/download/models/2155386?token=29f83fd931731ebeff6333cadf2d2d94"
     },
     "embeddings_downloads": {},
     "lora_downloads": {
-        "SDXL_FILM_PHOTOGRAPHY_STYLE_V1.safetensors": "https://huggingface.co/mashb1t/fav_models/resolve/main/fav/SDXL_FILM_PHOTOGRAPHY_STYLE_V1.safetensors"
+        "SDXL_FILM_PHOTOGRAPHY_STYLE_V1.safetensors": "https://huggingface.co/mashb1t/fav_models/resolve/main/fav/SDXL_FILM_PHOTOGRAPHY_STYLE_V1.safetensors",
+        "PERFECT_ANAL_AIO.safetensors": "https://civitai.com/api/download/models/2307072?token=29f83fd931731ebeff6333cadf2d2d94"
     },
     "previous_default_models": ["realisticStockPhoto_v10.safetensors"]
 }
