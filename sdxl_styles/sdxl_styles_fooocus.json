@@ -1,10 +1,10 @@
 [
-     {
- "name": "Advanced Negative",
-		 "prompt": "",
-		 "negative_prompt": ""
+	{
+ "name": "Cutie Pale",
+    	"prompt": "{prompt}, highly detailed beautiful face, very pale skin, thighs, coyly playing, detailed photograph",
+    	"negative_prompt": ""
 	},
-     {
+	{
  "name": "Cutie Pale",
     	"prompt": "{prompt}, highly detailed beautiful face, very pale skin, thighs, coyly playing, detailed photograph",
     	"negative_prompt": ""
