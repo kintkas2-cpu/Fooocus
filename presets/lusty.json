@@ -40,7 +40,7 @@
         "Lusty Pale"
     ],
     "default_aspect_ratio": "1280*768",
-    "default_overwrite_step": 15,
+    "default_overwrite_step": 13,
     "checkpoint_downloads": {
         "lustifySDXLNSFW_ggwpV7.safetensors": "https://civitai.com/api/download/models/2155386?token=29f83fd931731ebeff6333cadf2d2d94"
     },
