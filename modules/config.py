@@ -435,19 +435,19 @@ default_image_prompt_advanced_checkbox = get_config_item_or_set_default(
 )
 default_max_image_number = get_config_item_or_set_default(
     key='default_max_image_number',
-    default_value=32,
+    default_value=90,
     validator=lambda x: isinstance(x, int) and x >= 1,
     expected_type=int
 )
 default_output_format = get_config_item_or_set_default(
     key='default_output_format',
-    default_value='png',
+    default_value='jpeg',
     validator=lambda x: x in OutputFormat.list(),
     expected_type=str
 )
 default_image_number = get_config_item_or_set_default(
     key='default_image_number',
-    default_value=2,
+    default_value=90,
     validator=lambda x: isinstance(x, int) and 1 <= x <= default_max_image_number,
     expected_type=int
 )
