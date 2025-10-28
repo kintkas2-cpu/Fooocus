@@ -42,15 +42,15 @@
     "default_aspect_ratio": "1280*768",
     "default_overwrite_step": 13,
     "checkpoint_downloads": {
-        "lustifySDXLNSFW_ggwpV7.safetensors": "https://huggingface.co/kintkas2-cpu/fav_models/blob/main/lustifySDXLNSFW_ggwpV7.safetensors"
+        "lustifySDXLNSFW_ggwpV7.safetensors": "https://huggingface.co/kintkas2-cpu/fav_models/resolve/main/lustifySDXLNSFW_ggwpV7.safetensors"
     },
     "embeddings_downloads": {},
     "lora_downloads": {
         "SDXL_FILM_PHOTOGRAPHY_STYLE_V1.safetensors": "https://huggingface.co/mashb1t/fav_models/resolve/main/fav/SDXL_FILM_PHOTOGRAPHY_STYLE_V1.safetensors",
-        "PERFECT_ANAL_AIO.safetensors": "https://huggingface.co/kintkas2-cpu/fav_models/blob/main/PERFECT%20ANAL%20AIO.safetensors",
-        "m99_labiaplasty_pussy_2_sdxl_unpruned.safetensors": "https://huggingface.co/kintkas2-cpu/fav_models/blob/main/m99_labiaplasty_pussy_2_sdxl_unpruned.safetensors",
-        "gag_deepthoat.safetensors": "https://huggingface.co/kintkas2-cpu/fav_models/blob/main/gag_deepthroat.safetensors",
-        "concept_pov_dt_xl2-000020.safetensors": "https://huggingface.co/kintkas2-cpu/fav_models/blob/main/concept_pov_dt_xl2-000020.safetensors"
+        "PERFECT_ANAL_AIO.safetensors": "https://huggingface.co/kintkas2-cpu/fav_models/resolve/main/PERFECT%20ANAL%20AIO.safetensors",
+        "m99_labiaplasty_pussy_2_sdxl_unpruned.safetensors": "https://huggingface.co/kintkas2-cpu/fav_models/resolve/main/m99_labiaplasty_pussy_2_sdxl_unpruned.safetensors",
+        "gag_deepthoat.safetensors": "https://huggingface.co/kintkas2-cpu/fav_models/resolve/main/gag_deepthroat.safetensors",
+        "concept_pov_dt_xl2-000020.safetensors": "https://huggingface.co/kintkas2-cpu/fav_models/resolve/main/concept_pov_dt_xl2-000020.safetensors"
     },
     "previous_default_models": []
 }
