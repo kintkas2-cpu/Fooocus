@@ -1,8 +1,7 @@
 [
 	{
 		"name": "Negative",
-    	"negative_prompt": "(bokeh effect:1.2), (blurriness:1.2), wrinkles, blue eyes, wrinkled skin, unrealistic, (bokeh:1.2), depth of field, (blur:1.2), (blurry:1.2), (grainy:1.2), (out of focus:1.2), bad hands, bad anatomy, bad body, bad face, bad teeth, bad arms, bad legs, deformities, belly, tattoo, missing fingers, fat girl, tall girl, long torso, big pussy, fat cheeks, round face, wide arms, muscles, wide face, wrinkles, wrinkled skin, prominent bones, prominent ribs, ugly face, old, unappealing, pubic hair, hairy, airbrushed, cartoon, anime, semi-realistic, cgi, render, blender, digital art, manga, amateur."
-	},
+    	"negative_prompt": "(bokeh effect:1.2), (blurriness:1.2), wrinkles, blue eyes, wrinkled skin, unrealistic, (bokeh:1.2), depth of field, (blur:1.2), (blurry:1.2), (grainy:1.2), (out of focus:1.2), bad hands, bad anatomy, bad body, bad face, bad teeth, bad arms, bad legs, deformities, belly, tattoo, missing fingers, fat girl, tall girl, long torso, big pussy, fat cheeks, round face, wide arms, muscles, wide face, wrinkles, wrinkled skin, prominent bones, prominent ribs, ugly face, old, unappealing, pubic hair, hairy, airbrushed, cartoon, anime, semi-realistic, cgi, render, blender, digital art, manga, amateur, tanned skin, tan lines.
 	{
 		"name": "Cutie Pale",
     	"prompt": "highly detailed beautiful face, very pale skin, thighs, higly detailed photograph",
