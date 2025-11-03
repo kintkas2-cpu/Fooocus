@@ -34,13 +34,13 @@
     "default_sampler": "dpmpp_2m_sde_gpu",
     "default_scheduler": "karras",
     "default_performance": "Speed",
-    "default_prompt": "__rd_type__, highly detailed face, __rd_hair__, __rd_hair_color__ , __rd_clothing__, in bed, __rd_pose__, __rd_action__, __rd_view__",
+    "default_prompt": "realistic photo, __rd_type__ girl, highly detailed face, __rd_hair__, __rd_hair_color__ , __rd_clothing__, in bed, __rd_pose__, __rd_view__",
     "default_prompt_negative": "unrealistic, saturated, high contrast, painting, drawing, sketch, cartoon, anime, manga, render, CG, 3d, watermark, signature, label",
     "default_styles": [
         "Cutie Pale"
     ],
     "default_aspect_ratio": "768*1280",
-    "default_overwrite_step": 13,
+    "default_overwrite_step": 15,
     "checkpoint_downloads": {
         "lustifySDXLNSFW_ggwpV7.safetensors": "https://civitai.com/api/download/models/2155386?token=29f83fd931731ebeff6333cadf2d2d94"
     },
