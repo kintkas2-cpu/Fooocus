@@ -37,7 +37,7 @@
     "default_prompt": "",
     "default_prompt_negative": "",
     "default_styles": [
-        "Nwgative"
+        "Negative"
     ],
     "default_aspect_ratio": "768*1280",
     "default_overwrite_step": 15,
