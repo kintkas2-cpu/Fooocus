@@ -34,10 +34,10 @@
     "default_sampler": "dpmpp_2m_sde_gpu",
     "default_scheduler": "karras",
     "default_performance": "Speed",
-    "default_prompt": "realistic photo, __rd_type__ girl, highly detailed face, __rd_hair__, __rd_hair_color__ , __rd_clothing__, in bed, __rd_pose__, __rd_view__",
-    "default_prompt_negative": "unrealistic, saturated, high contrast, painting, drawing, sketch, cartoon, anime, manga, render, CG, 3d, watermark, signature, label",
+    "default_prompt": "",
+    "default_prompt_negative": "",
     "default_styles": [
-        "Cutie Pale"
+        "Nwgative"
     ],
     "default_aspect_ratio": "768*1280",
     "default_overwrite_step": 15,
@@ -48,8 +48,8 @@
     "lora_downloads": {
         "SDXL_FILM_PHOTOGRAPHY_STYLE_V1.safetensors": "https://huggingface.co/mashb1t/fav_models/resolve/main/fav/SDXL_FILM_PHOTOGRAPHY_STYLE_V1.safetensors",
         "PERFECT_ANAL_AIO.safetensors": "https://civitai.com/api/download/models/2307072?token=29f83fd931731ebeff6333cadf2d2d94",
-        "finger_ass.safetensors": "https://civitai.com/api/download/models/270165?token=29f83fd931731ebeff6333cadf2d2d94",
-        "gag_deepthoat.safetensors": "https://civitai.com/api/download/models/1107308?token=29f83fd931731ebeff6333cadf2d2d94",
+        "SkinnyHelperXL.safetensors": "https://civitai.com/api/download/models/992513?token=29f83fd931731ebeff6333cadf2d2d94",
+        "Microwaist_XL_v01.safetensors": "https://civitai.com/api/download/models/140842?token=29f83fd931731ebeff6333cadf2d2d94",
         "m99_labiaplasty_pussy_2_sdxl_unpruned.safetensors": "https://civitai.com/api/download/models/290695?token=29f83fd931731ebeff6333cadf2d2d94"
     },
     "previous_default_models": []
