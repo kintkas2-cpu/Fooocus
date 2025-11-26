@@ -36,6 +36,9 @@
     "default_performance": "Speed",
     "default_prompt": "",
     "default_prompt_negative": "",
+    "default_styles": [
+        "Negative"
+    ],
     
     "default_aspect_ratio": "768*1280",
     "default_overwrite_step": 15,
