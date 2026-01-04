@@ -1,5 +1,5 @@
 {
-    "default_model": "fabledIllusionNSFW_v5CinMaChiaroscuro.safetensors",
+    "default_model": "whiplashNSFW_v3DMD2.safetensors",
     "default_refiner": "None",
     "default_refiner_switch": 0.5,
     "default_loras": [
@@ -42,11 +42,13 @@
     "default_aspect_ratio": "1280*768",
     "default_overwrite_step": 15,
     "checkpoint_downloads": {
-        "fabledIllusionNSFW_v5CinMaChiaroscuro.safetensors": "https://civitai.com/api/download/models/2560890?token=29f83fd931731ebeff6333cadf2d2d94"
+        "whiplashNSFW_v3DMD2.safetensors": "https://civitai.com/api/download/models/2518189?token=29f83fd931731ebeff6333cadf2d2d94"
     },
     "embeddings_downloads": {},
     "lora_downloads": {
-        "SDXL_FILM_PHOTOGRAPHY_STYLE_V1.safetensors": "https://huggingface.co/mashb1t/fav_models/resolve/main/fav/SDXL_FILM_PHOTOGRAPHY_STYLE_V1.safetensors"
+        "SDXL_FILM_PHOTOGRAPHY_STYLE_V1.safetensors": "https://huggingface.co/mashb1t/fav_models/resolve/main/fav/SDXL_FILM_PHOTOGRAPHY_STYLE_V1.safetensors",
+        "PERFECT_ANAL_AIO.safetensors": "https://civitai.com/api/download/models/2307072?token=29f83fd931731ebeff6333cadf2d2d94",
+        "xl-innie-biglove.safetensors": "https://civitai.com/api/download/models/1565815?token=29f83fd931731ebeff6333cadf2d2d94"
     },
     "previous_default_models": []
 }
