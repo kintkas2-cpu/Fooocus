@@ -9,7 +9,7 @@
 	},
 	{
 		"name": "Cutie Pale",
-    	"prompt": "highly detailed face, very pale skin, thighs, highly detailed photograph",
+    	"prompt": "highly detailed face, very pale skin, highly detailed photograph",
     	"negative_prompt": ""
 	},
      {
@@ -19,7 +19,7 @@
     },
      {
         "name": "Explicit",
-        "prompt": "erotic, lewdly, explicit, lusty, heating up, vamping",
+        "prompt": "erotic, lewdly, explicit, lusty, sexy, vamping",
         "negative_prompt": "unerotic, modestly, implicit"
     },
     {
