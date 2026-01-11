@@ -11,7 +11,7 @@
         [
             true,
             "xl-innie-biglove.safetensors",
-            0.45
+            0.4
         ],
         [
             true,
@@ -34,10 +34,10 @@
     "default_sampler": "dpmpp_2m_sde_gpu",
     "default_scheduler": "karras",
     "default_performance": "Speed",
-    "default_prompt": "",
-    "default_prompt_negative": "",
+    "default_prompt": "score_9, score_8_up, score_7_up, rating_explicit, source_photorealistic, ",
+    "default_prompt_negative": "(worst quality, low quality, normal quality:2), (bokeh effect:1.2), (blurriness:1.2), (bokeh:1.2), depth of field, (blur:1.2), (blurry:1.2), (grainy:1.2), (out of focus:1.2), doll, plastic, cartoon, anime, deformed, distorted, blurry, bad anatomy, bad proportions, extra fingers, gross, fake skin, heavy makeup, airbrushed, oily skin, bad face, bad teeth, bad hands, deformities, belly, tattoo, missing fingers, fat girl, tall girl, long torso, big pussy, fat cheeks, round face, wide arms, muscles, wide face, wrinkles, wrinkled skin, prominent bones, prominent ribs, ugly face, old, unappealing, pubic hair, hairy, tanned skin, bones, ribs, tan lines, pierced tongue",
     "default_styles": [
-        "Negative"
+        "Blank"
     ],
     "default_aspect_ratio": "1280*768",
     "default_overwrite_step": 15,
